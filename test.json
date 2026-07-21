@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Abdullah",
+    "email": "abdullah@example.com",
+    "age": 22,
+    "city": "Karachi",
+    "area": "Gulshan-e-Iqbal",
+    "isActive": true
+  },
+  {
+    "name": "Ali",
+    "email": "ali@example.com",
+    "age": 25,
+    "city": "Lahore",
+    "area": "Johar Town",
+    "isActive": false
+  },
+  {
+    "name": "Muskan",
+    "email": "muskan@example.com",
+    "age": 30,
+    "city": "Islamabad",
+    "area": "F-10",
+    "isActive": true
+  },
+  {
+    "name": "Alishba",
+    "email": "alishba@example.com",
+    "age": 21,
+    "city": "Karachi",
+    "area": "North Nazimabad",
+    "isActive": false
+  }
+]
